@@ -1,2 +1,2 @@
 # Bitacora-
-Mi primer proyecto final, 1500 conceptos
+Mi primer proyecto final, consta de una bitacora con consepctos sobre algunos temas sobe sofware.
